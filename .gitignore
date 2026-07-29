@@ -1,4 +1,4 @@
-# Never publish plaintext market exports or local sync state.
+# Scanner CSVs remain local inputs; Git receives compressed JSON artifacts.
 *.csv
 *.tmp
 .sync-state.json
