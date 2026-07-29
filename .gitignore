@@ -1,0 +1,4 @@
+# Never publish plaintext market exports or local sync state.
+*.csv
+*.tmp
+.sync-state.json
