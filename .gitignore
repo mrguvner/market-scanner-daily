@@ -2,3 +2,4 @@
 *.csv
 *.tmp
 .sync-state.json
+.craft-sync-state.json
