@@ -1,0 +1,9 @@
+{
+    "version":  "2026-08-08T22:29:53.413Z",
+    "file":  "latest-craft.json.gz",
+    "sha256":  "4552f52987f174ba20d6539ef878bb0a3efe017f9daaf0cdb9791246ab1de51d",
+    "rows":  1016,
+    "market_date":  "2026-08-08",
+    "schema_version":  1,
+    "feed":  "private_craft"
+}
