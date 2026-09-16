@@ -1,8 +1,8 @@
 {
-    "version":  "2026-09-16T18:23:14.740Z",
+    "version":  "2026-09-16T18:24:59.186Z",
     "file":  "latest.json.gz",
-    "sha256":  "cc2c2a3c6ad647a0852efcd63a9e0a805c3efb1cd0302c98e9d18256b70d82b6",
-    "rows":  7552,
+    "sha256":  "e626bc59c73c016dd0c2ed8424362ce591fe6bb392ecee43ea24a29f74b22c81",
+    "rows":  7649,
     "market_date":  "2026-09-16",
     "schema_version":  1
 }
