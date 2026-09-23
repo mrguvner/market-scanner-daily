@@ -1,8 +1,8 @@
 {
-    "version":  "2026-09-23T21:13:02.042Z",
+    "version":  "2026-09-23T21:14:50.447Z",
     "file":  "latest.json.gz",
-    "sha256":  "6ef9d2b4bec4c0c069d695906091fdb00f9e0fe5dd394f5a2e27976ec825315c",
-    "rows":  5945,
+    "sha256":  "85276547a78dfaa86b1e1f78aa7c72bbb311312d25500955bc6c9d792d20867a",
+    "rows":  6019,
     "market_date":  "2026-09-23",
     "schema_version":  1,
     "server_id":  "lu4-white"
